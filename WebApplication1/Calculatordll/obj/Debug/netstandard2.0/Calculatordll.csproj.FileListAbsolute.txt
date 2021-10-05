@@ -1,0 +1,9 @@
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\bin\Debug\netstandard2.0\Calculatordll.deps.json
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\bin\Debug\netstandard2.0\Calculatordll.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\bin\Debug\netstandard2.0\Calculatordll.pdb
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.csprojAssemblyReference.cache
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.csproj.CoreCompileInputs.cache
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.AssemblyInfoInputs.cache
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.AssemblyInfo.cs
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\Calculatordll\obj\Debug\netstandard2.0\Calculatordll.pdb
