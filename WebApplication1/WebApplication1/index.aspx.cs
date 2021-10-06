@@ -17,7 +17,7 @@ namespace WebApplication1
         protected void Button1_Click(object sender, EventArgs e)
         {
             int numerator = Convert.ToInt32(tbNum.Text);
-            int dinominator = Convert.ToInt32(tbNum.Text);
+            int dinominator = Convert.ToInt32(tbDino.Text);
             int resut = Calculatordll.Calculator.Divide(numerator, dinominator);
             lblResult.Text = resut.ToString();
             lblResult.Visible = true;
