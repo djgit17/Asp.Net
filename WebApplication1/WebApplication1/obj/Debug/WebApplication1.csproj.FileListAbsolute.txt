@@ -56,3 +56,15 @@ D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\obj\Debu
 D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
 D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\Calculatordll.dll
 D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\Calculatordll.pdb
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Data.Common.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Diagnostics.StackTrace.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Diagnostics.Tracing.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Globalization.Extensions.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.IO.Compression.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Net.Http.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Net.Sockets.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Runtime.Serialization.Primitives.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Security.Cryptography.Algorithms.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Security.SecureString.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Threading.Overlapped.dll
+D:\college_Subjects\C#\ASP .NET\Testing\WebApplication1\WebApplication1\bin\System.Xml.XPath.XDocument.dll
